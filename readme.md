@@ -18,7 +18,7 @@ Pagina hecha con tailwindcss
 
 ## Deploy
 
-[Link a la pagina]()
+[Link a la pagina](https://clever-donut-20d9f9.netlify.app/)
 [Link a la pagina marcada](https://64ea57327acdd671d97b9be3--preeminent-kangaroo-e11aef.netlify.app/)
 
 ## Correr Tailwind
