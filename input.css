@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.borde-verde {
+  @apply border-2 border-emerald-500;
+}
+
+.borde-rojo {
+  @apply border-2 border-red-500;
+}
+
+.borde-naranja {
+  @apply border-2 border-orange-500;
+}
+.borde-celeste {
+  @apply border-2 border-cyan-500;
+}
+
+.borde-violeta {
+  @apply border-2 border-purple-500;
+}
+
+.borde-rosa {
+  @apply border-2 border-pink-500;
+}
+
+.borde-indigo {
+  @apply border-2 border-indigo-300;
+}
+
+.ficon:hover {
+  filter: invert(80%) sepia(37%) saturate(7048%) hue-rotate(132deg)
+    brightness(105%) contrast(104%);
+}
